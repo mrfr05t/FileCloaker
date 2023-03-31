@@ -29,13 +29,13 @@ FileCloaker is also a great way to introduce people to crypto and steganography 
 ## Cloaking Screen:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrfr05t/FileCloaker/master/Images/Cloak.png?token=GHSAT0AAAAAACAZQZX66LEOEZMXZL4R3N22ZBHLWBQ">  
+  <img src="https://i.ibb.co/SrmxPbb/Cloak.png">  
 </p>
 <p align="center">
 
 ## DeCloaking Screen:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrfr05t/FileCloaker/master/Images/Decloak.png?token=GHSAT0AAAAAACAZQZX6XEOTHXAJJ5YCYGRMZBHL6DQ">  
+  <img src="https://i.ibb.co/K9CjDxq/Decloaker.png">  
 </p>
 <p align="center">
 
