@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mrfr05t/FileCloaker/master/Images/Main.png?token=GHSAT0AAAAAACAZQZX7LL4PAW2I6C7KKZDGZBHLJGQ](https://github.com/mrfr05t/FileCloaker/blob/a9c20e4749544eb181f86e65a8e2328a7cef7205/Images/Main.png)">  
+  <img src="https://i.ibb.co/zs0cDZP/Main.png">  
 </p>
 
 
