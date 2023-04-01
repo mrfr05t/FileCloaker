@@ -53,7 +53,7 @@ public string EnKey()
  ## DEVELOPERS & CREDIT:
  
  - Developer  [**Mrfr05t**](https://github.com/mrfr05t) ( I did nothing actually! :D )
- - Programmer  [**Omnimaverick**](https://github.com/Omnimaverick) ( I did nothing actually! :D )
+ - Programmer  [**Omnimaverick**](https://github.com/Omnimaverick)
  - Joe Gervais (TryCatchHCF)
  for developing  [**CloakifyFactory**](https://github.com/TryCatchHCF/Cloakify) 
 
