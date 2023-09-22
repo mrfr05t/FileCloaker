@@ -1,4 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
 
 <p align="center">
   <img src="https://i.ibb.co/zs0cDZP/Main.png">  
